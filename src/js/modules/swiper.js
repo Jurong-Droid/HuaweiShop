@@ -1,7 +1,7 @@
 define(['jquery'], function ($) {
 
-    $banner_imgs = $('.banner_box').find('.list')
-    $banner_dots = $('.banner_box').find('.pagination');
+    var $banner_imgs = $('.banner_box').find('.list')
+    var $banner_dots = $('.banner_box').find('.pagination');
 
     //渲染banner数据设置方法
     function bannerInit(data) {

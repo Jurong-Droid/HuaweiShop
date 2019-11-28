@@ -1,7 +1,7 @@
 define(['jquery'], function ($) {
 
-    $adv_imgs = $('.slider').find('.center_list')
-    $adv_dots = $('.slider').find('.center_pagination');
+    var $adv_imgs = $('.slider').find('.center_list')
+    var $adv_dots = $('.slider').find('.center_pagination');
 
     //渲染banner数据设置方法
     function cenAdvInit(data) {
