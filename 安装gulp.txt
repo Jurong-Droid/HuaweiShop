@@ -1,0 +1,3 @@
+npm install --save-dev gulp
+
+cnpm i -D gulp gulp-clean gulp-file-include gulp-sass gulp-webserver

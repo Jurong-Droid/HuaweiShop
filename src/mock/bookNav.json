@@ -1,0 +1,21 @@
+{
+    "type" : "bookNav",
+    "code" : 0,
+    "nav_list" : [
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/frontCategory/E35Vvx4Lga3epwtxaTEc.png",
+            "navName" : "平板电脑",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/frontCategory/SeR9qy8YQtRqReGFsv6K.png",
+            "navName" : "笔记本电脑",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/navigation/zJrzC3PB3eRxHgMa4gZp.png",
+            "navName" : "笔记本配件",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        }
+    ]
+}

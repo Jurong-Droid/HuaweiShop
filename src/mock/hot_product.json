@@ -1,0 +1,22 @@
+{
+    "type" : "hot_product",
+    "code" : 0,
+    "hot_box" : [
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/ir1SIhz1Esk7KdPvOT64.png",
+            "imgLink" : "https://www.vmall.com/product/10086238753372.html"
+        },
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/NJ85RqpTKxrTFLKN7UQ3.jpg",
+            "imgLink" : "https://www.vmall.com/product/10086244199203.html"
+        },
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/ls42UcCyR1Lk55kz0XWQ.jpg",
+            "imgLink" : "https://www.vmall.com/product/10086912255346.html"
+        },
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/VJoUrEO0x9vRPLZrwwNN.jpg",
+            "imgLink" : "https://www.vmall.com/product/10086875450369.html"
+        }
+    ]
+}

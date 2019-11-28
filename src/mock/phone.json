@@ -1,0 +1,117 @@
+{
+    "type" : "phone",
+    "title" : "手机",
+    "code" : "0",
+    "goods_list" : [
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443352531/428_428_37C267F23F1D9D8B7DBF9202529F8CFBB5AEACA87BCFF900mp.png",
+            "goodsId" : "1",
+            "goodsName" : "荣耀20青春版",
+            "goodsDescribe"  : "最高优惠300 ",
+            "goodsPrice" : 1099,
+            "chooseColor" : ["魅海蓝" , "幻夜黑" , "魅丽红" , "幻影红" , "幻影蓝"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443352531/428_428_37C267F23F1D9D8B7DBF9202529F8CFBB5AEACA87BCFF900mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443352531/428_428_37C267F23F1D9D8B7DBF9202529F8CFBB5AEACA87BCFF900mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443293780/428_428_1555465196488mp.png",
+            "goodsId" : "2",
+            "goodsName" : "HUAWEI P30",
+            "goodsDescribe"  : "领券减200|享6期免息 ",
+            "goodsPrice" : 3988,
+            "chooseColor" : ["亮黑色" , "星河银" , "翡冷翠" , "罗兰紫"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443293780/428_428_1555465196488mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443293780/428_428_1555465196488mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443323753/428_428_189FA79392B572C21EE009917E689200B6B6089FEB1C4ED9mp.png",
+            "goodsId" : "3",
+            "goodsName" : "荣耀20S",
+            "goodsDescribe"  : "最高优惠300 ",
+            "goodsPrice" : 1599,
+            "chooseColor" :  ["幻夜星河" , "蓝水翡翠" , "冰岛幻境"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443323753/428_428_189FA79392B572C21EE009917E689200B6B6089FEB1C4ED9mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443323753/428_428_189FA79392B572C21EE009917E689200B6B6089FEB1C4ED9mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443293513/428_428_1555464685019mp.png",
+            "goodsId" : "4",
+            "goodsName" : "HUAWEI P30 Pro",
+            "goodsDescribe"  : "领券减200|享6期免息",
+            "goodsPrice" : 4988,
+            "chooseColor" : ["亮黑色" , "星河银" , "翡冷翠" , "罗兰紫"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443293513/428_428_1555464685019mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443293513/428_428_1555464685019mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443320394/428_428_1563504284133mp.png",
+            "goodsId" : "5",
+            "goodsName" : "荣耀9X PRO",
+            "goodsDescribe"  : "直降200 ",
+            "goodsPrice" : 1999,
+            "chooseColor" : ["渐变蓝" , "渐变红" , "幻夜黑"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443320394/428_428_1563504284133mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443320394/428_428_1563504284133mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443331635/428_428_B510A01A2C3182A58046679623ADF298DB8AF277F20AD9DDmp.png",
+            "goodsId" : "6",
+            "goodsName" : "HUAWEI Mate 20 X (5G)",
+            "goodsDescribe"  : "领券减500|6期免息 ",
+            "goodsPrice" : 6199,
+            "chooseColor" : ["绮境森林" , "仲夏紫" , "亮黑色" , "珊瑚橙" , "苏音蓝"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443331635/428_428_B510A01A2C3182A58046679623ADF298DB8AF277F20AD9DDmp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443331635/428_428_B510A01A2C3182A58046679623ADF298DB8AF277F20AD9DDmp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443273959/428_428_1555729935843mp.png",
+            "goodsId" : "7",
+            "goodsName" : "荣耀10青春版",
+            "goodsDescribe"  : "最高降600元",
+            "goodsPrice" : 899,
+            "chooseColor" : ["幻夜黑" , "极光蓝" , "魅焰红" , "冰岛白"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443273959/428_428_1555729935843mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443273959/428_428_1555729935843mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443355143/428_428_E455CEB7FFF0BBC92512AF0B51F5A56BEB1E459385B1B22Emp.png",
+            "goodsId" : "8",
+            "goodsName" : "华为畅HUAWEI nova 5i",
+            "goodsDescribe"  : "赠配件好礼 6期免息",
+            "goodsPrice" : 1799,
+            "chooseColor" : ["幻夜黑" , "翡冷翠" , "天空之境" , "赤茶橘"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443355143/428_428_E455CEB7FFF0BBC92512AF0B51F5A56BEB1E459385B1B22Emp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443355143/428_428_E455CEB7FFF0BBC92512AF0B51F5A56BEB1E459385B1B22Emp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443261482/428_428_1550885454087mp.png",
+            "goodsId" : "9",
+            "goodsName" : "荣耀8X",
+            "goodsDescribe"  : "最高优惠500元",
+            "goodsPrice" : 899,
+            "chooseColor" : ["幻夜黑" , "极光蓝" , "魅焰红" , "冰岛白"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443261482/428_428_1550885454087mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443261482/428_428_1550885454087mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443352678/428_428_9FA695518CFC23552650A7145BD7A40DC1A9F088C4BA6A07mp.png",
+            "goodsId" : "10",
+            "goodsName" : "华为畅享 10S",
+            "goodsDescribe"  : "领券减50|赠耳机",
+            "goodsPrice" : 1599,
+            "chooseColor" : ["幻夜黑" , "翡冷翠" , "天空之境" , "赤茶橘"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443352678/428_428_9FA695518CFC23552650A7145BD7A40DC1A9F088C4BA6A07mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443352678/428_428_9FA695518CFC23552650A7145BD7A40DC1A9F088C4BA6A07mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        }
+    ]
+}

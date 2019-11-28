@@ -1,0 +1,31 @@
+{
+    "type" : "phoneNav",
+    "code" : 0,
+    "nav_list" : [
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/frontCategory/vQgeYhJ8nzPnL57QQikv.png",
+            "navName" : "荣耀",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/frontCategory/o2bkSM98by71VqqvM8oS.png",
+            "navName" : "HUAWEI Mate系列",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/frontCategory/o2bkSM98by71VqqvM8oS.png",
+            "navName" : "HUAWEI P系列",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/frontCategory/iO74o85KsBQr8wOT1Lkz.png",
+            "navName" : "华为畅享系列",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/frontCategory/Ij4d8D0psfX5qo36dANk.png",
+            "navName" : "HUAWEI 麦芒系列",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        }
+    ]
+}

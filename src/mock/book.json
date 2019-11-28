@@ -1,0 +1,127 @@
+{
+    "type" : "book",
+    "title" : "笔记本电脑",
+    "code" : "0",
+    "goods_list" : [
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443297962/428_428_1555752016264mp.png",
+            "goodsId" : "1",
+            "goodsName" : "HUAWEI MateBook X Pro",
+            "goodsDescribe"  : "2019 款 3K触控全面屏",
+            "goodsPrice" : 7999,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443297962/428_428_1555752016264mp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443297962/428_428_1555752016264mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443359745/428_428_3B0959E049EFCF71582CE0862E99353BEA1C34AF98E1B8EAmp.png",
+            "goodsId" : "2",
+            "goodsName" : "荣耀MagicBook 2019 科技尝鲜版",
+            "goodsDescribe"  : "金属轻薄机身",
+            "goodsPrice" : 3699,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443359745/428_428_3B0959E049EFCF71582CE0862E99353BEA1C34AF98E1B8EAmp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443359745/428_428_3B0959E049EFCF71582CE0862E99353BEA1C34AF98E1B8EAmp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443292417/428_428_1555751874478mp.png",
+            "goodsId" : "3",
+            "goodsName" : "HUAWEI MateBook 14",
+            "goodsDescribe"  : "手机电脑一碰即传",
+            "goodsPrice" : 5999,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443292417/428_428_1555751874478mp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443292417/428_428_1555751874478mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443333578/428_428_97C374A5DE29E2E4BBDBA60B9A7F6D90898A56C4E9E00EAAmp.png",
+            "goodsId" : "4",
+            "goodsName" : "HUAWEI MateBook X",
+            "goodsDescribe"  : "稀缺货源",
+            "goodsPrice" : 6188,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443333578/428_428_97C374A5DE29E2E4BBDBA60B9A7F6D90898A56C4E9E00EAAmp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443333578/428_428_97C374A5DE29E2E4BBDBA60B9A7F6D90898A56C4E9E00EAAmp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443181223/428_428_1545126671264mp.png",
+            "goodsId" : "5",
+            "goodsName" : "HUAWEI MateBook 13",
+            "goodsDescribe"  : "2K全面屏笔记本",
+            "goodsPrice" : 5699,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443181223/428_428_1545126671264mp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443181223/428_428_1545126671264mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443347070/428_428_FB6E909561FF89B1931243E84ABB321C6B9CCE0EDB075060mp.png",
+            "goodsId" : "6",
+            "goodsName" : "荣耀 MagicBook Pro科技尝鲜版",
+            "goodsDescribe"  : "无界高清全面屏 ",
+            "goodsPrice" : 4899,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443347070/428_428_FB6E909561FF89B1931243E84ABB321C6B9CCE0EDB075060mp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443347070/428_428_FB6E909561FF89B1931243E84ABB321C6B9CCE0EDB075060mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443304400/428_428_1556179745736mp.png",
+            "goodsId" : "7",
+            "goodsName" : "HUAWEI MateBook E",
+            "goodsDescribe"  : "二合一笔记本",
+            "goodsPrice" : 4288,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443304400/428_428_1556179745736mp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443304400/428_428_1556179745736mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443313198/428_428_1563350288356mp.png",
+            "goodsId" : "8",
+            "goodsName" : "荣耀MagicBook 2019",
+            "goodsDescribe"  : "性能新升级 15小时长续航",
+            "goodsPrice" : 3999,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443313198/428_428_1563350288356mp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443313198/428_428_1563350288356mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443179152/428_428_1539767984482mp.png",
+            "goodsId" : "9",
+            "goodsName" : "HUAWEI MateBook E 2019款",
+            "goodsDescribe"  : "二合一笔记本",
+            "goodsPrice" : 3999,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res1.vmallres.com/pimages//product/6901443179152/428_428_1539767984482mp.png",
+            "photoLarge" : "https://res1.vmallres.com/pimages//product/6901443179152/428_428_1539767984482mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        },
+       
+        {
+            "goodsImg" : "https://res.vmallres.com/pimages//product/6901443298204/428_428_1554717601507mp.png",
+            "goodsId" : "10",
+            "goodsName" : "荣耀MagicBook 笔记本电脑",
+            "goodsDescribe"  : "最高优惠300 ",
+            "goodsPrice" : 4999,
+            "chooseColor" : ["皓月银" , "深空灰"],
+            "photoNormal" : "https://res.vmallres.com/pimages//product/6901443298204/428_428_1554717601507mp.png",
+            "photoLarge" : "https://res.vmallres.com/pimages//product/6901443298204/428_428_1554717601507mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/21/6915C02C41265C4750CDDC3926DB249678C29DC2E5060DF6.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/21/029D3526A422419DC5B2CD346F9C1C89BB1A2D1FFDAB3C88.jpg"]
+        }
+       
+    ]
+}

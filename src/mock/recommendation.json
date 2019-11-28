@@ -1,0 +1,117 @@
+{
+    "type" : "recommendation",
+    "title" : "热销单品",
+    "code" : "0",
+    "recommendation" : [
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443315826/428_428_1560758954741mp.png",
+            "goodsId" : "1",
+            "goodsName" : "华为平板 M6 10.8英寸",
+            "goodsDescribe"  : "最高优惠100元",
+            "goodsPrice" : 2199,
+            "chooseColor" : ["魅海蓝" , "幻夜黑" , "魅丽红" , "幻影红" , "幻影蓝"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443315826/428_428_1560758954741mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443315826/428_428_1560758954741mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443344697/428_428_C72517A4938F09A0E087E77DAE4A882A2A80674FAAC94C20mp.png",
+            "goodsId" : "2",
+            "goodsName" : "HUAWEI FreeBuds 3 无线耳机",
+            "goodsDescribe"  : "新品热销",
+            "goodsPrice" : 1199,
+            "chooseColor" : ["亮黑色" , "星河银" , "翡冷翠" , "罗兰紫"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443344697/428_428_C72517A4938F09A0E087E77DAE4A882A2A80674FAAC94C20mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443344697/428_428_C72517A4938F09A0E087E77DAE4A882A2A80674FAAC94C20mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443293209/428_428_0487E040C660EAA567DE8490112CC938862A01BE09FD95D8mp.png",
+            "goodsId" : "3",
+            "goodsName" : "荣耀智慧屏系列",
+            "goodsDescribe"  : "新品",
+            "goodsPrice" : 3299,
+            "chooseColor" :  ["幻夜星河" , "蓝水翡翠" , "冰岛幻境"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443293209/428_428_0487E040C660EAA567DE8490112CC938862A01BE09FD95D8mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443293209/428_428_0487E040C660EAA567DE8490112CC938862A01BE09FD95D8mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443287697/428_428_1553502823158mp.png",
+            "goodsId" : "4",
+            "goodsName" : "HUAWEI WATCH GT",
+            "goodsDescribe"  : "最高优惠400",
+            "goodsPrice" : 1088,
+            "chooseColor" : ["亮黑色" , "星河银" , "翡冷翠" , "罗兰紫"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443287697/428_428_1553502823158mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443287697/428_428_1553502823158mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6972453160010/428_428_AE7ED32286D477FDC679E510BE5DAE46F0AD800E7D44D7B1mp.png",
+            "goodsId" : "5",
+            "goodsName" : "华为路由 A2",
+            "goodsDescribe"  : "订金50抵80 限量赠空气加湿器",
+            "goodsPrice" : 399,
+            "chooseColor" : ["渐变蓝" , "渐变红" , "幻夜黑"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6972453160010/428_428_AE7ED32286D477FDC679E510BE5DAE46F0AD800E7D44D7B1mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6972453160010/428_428_AE7ED32286D477FDC679E510BE5DAE46F0AD800E7D44D7B1mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443347582/428_428_F35DF9E580F9A027FF863107E5860D25BEE7CDC33755568Cmp.png",
+            "goodsId" : "6",
+            "goodsName" : "荣耀手环 5i 标准版",
+            "goodsDescribe"  : "到手价149",
+            "goodsPrice" : 149,
+            "chooseColor" : ["绮境森林" , "仲夏紫" , "亮黑色" , "珊瑚橙" , "苏音蓝"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443347582/428_428_F35DF9E580F9A027FF863107E5860D25BEE7CDC33755568Cmp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443347582/428_428_F35DF9E580F9A027FF863107E5860D25BEE7CDC33755568Cmp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443295937/428_428_5A9D38AA9BBCC7DC743CE9921D67F1793F3117457C8EC094mp.png",
+            "goodsId" : "7",
+            "goodsName" : "HUAWEI FreeLace 无线耳机",
+            "goodsDescribe"  : "限时优惠60",
+            "goodsPrice" : 439,
+            "chooseColor" : ["幻夜黑" , "极光蓝" , "魅焰红" , "冰岛白"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443295937/428_428_5A9D38AA9BBCC7DC743CE9921D67F1793F3117457C8EC094mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443295937/428_428_5A9D38AA9BBCC7DC743CE9921D67F1793F3117457C8EC094mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443331093/428_428_21EEE8FC1E9B970CAA527CC00F668B933528C62FBC4CD1E4mp.png",
+            "goodsId" : "8",
+            "goodsName" : "华为智慧屏",
+            "goodsDescribe"  : "享6期免息+赠配件大礼包",
+            "goodsPrice" : 6999,
+            "chooseColor" : ["幻夜黑" , "翡冷翠" , "天空之境" , "赤茶橘"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443331093/428_428_21EEE8FC1E9B970CAA527CC00F668B933528C62FBC4CD1E4mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443331093/428_428_21EEE8FC1E9B970CAA527CC00F668B933528C62FBC4CD1E4mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443322237/428_428_B52943ACCB70E45E5223EC772D4DB9BBF8478C6A163829D8mp.png",
+            "goodsId" : "9",
+            "goodsName" : "HUAWEI WATCH GT 2",
+            "goodsDescribe"  : "稀缺货源，限量发售",
+            "goodsPrice" : 1388,
+            "chooseColor" : ["幻夜黑" , "翡冷翠" , "天空之境" , "赤茶橘"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443322237/428_428_B52943ACCB70E45E5223EC772D4DB9BBF8478C6A163829D8mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443322237/428_428_B52943ACCB70E45E5223EC772D4DB9BBF8478C6A163829D8mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        },
+        {
+            "goodsImg" : "https://res0.vmallres.com/pimages//product/6901443288359/428_428_1552053266691mp.png",
+            "goodsId" : "10",
+            "goodsName" : "荣耀平板5 8英寸",
+            "goodsDescribe"  : "麒麟710强劲芯片",
+            "goodsPrice" : 1099,
+            "chooseColor" : ["幻夜黑" , "翡冷翠" , "天空之境" , "赤茶橘"],
+            "photoNormal" : "https://res0.vmallres.com/pimages//product/6901443288359/428_428_1552053266691mp.png",
+            "photoLarge" : "https://res0.vmallres.com/pimages//product/6901443288359/428_428_1552053266691mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/09/19/59B48E349C36DF7C1E9949DDF21F593E6FC97FD0776CBE24.jpg","https://res.vmallres.com/pimages/detailImg/2019/09/27/E73DB6E1FB465A7B9153CDC6D4B91264FDC1080960E9BC64.jpg"]
+        }
+    ]
+}

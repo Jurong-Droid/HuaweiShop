@@ -1,0 +1,21 @@
+{
+    "type" : "watchNav",
+    "code" : 0,
+    "nav_list" : [
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/navigation/mdCqMsUUZa0ffupVTN1Z.png",
+            "navName" : "手环",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/navigation/WiJpmV0tMyVz7QdPq1a7.png",
+            "navName" : "手表",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "navUrl" : "https://res.vmallres.com/pimages//pages/frontCategory/XeNxztK1Tpbcs2H25xsr.png",
+            "navName" : "VR",
+            "navLink" : "https://www.vmall.com/product/10086478053817.html"
+        }
+    ]
+}

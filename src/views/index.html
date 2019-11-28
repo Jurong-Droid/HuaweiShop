@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/all.css">
+    <link rel="stylesheet" href="../lib/swiper.min.css">
+    <script src="../lib/require.js" data-main="../js/index.js"></script>
+    <script>
+        requirejs.config({
+            paths : {
+                    "jquery" :[
+                        "../lib/jquery-3.4.1.min" ,
+                        "https://cdn.bootcss.com/jquery/3.3.1/jquery.js" ,
+                        "http://www.jq22.com/jquery/jquery-1.10.2.js"
+                ] ,
+                    "swiper" : "../lib/swiper.min"
+            }
+        })
+    </script>
+</head>
+<body>  
+
+    <!-- 这里是右侧浮动按钮 -->
+   <div class="float_nav">
+        <div class="cart_btn">
+            <img src="../static/cart_btn.png" alt="">
+        </div>
+        <div class="online_btn">
+            <img src="../static/online_btn.png" alt="">
+        </div>
+        <div class="contact_btn">
+            <img src="../static/contact_btn.png" alt="">
+        </div>
+        <div class="swkc_scroll">
+            <img src="../static/swkc_scroll.png" alt="">
+        </div>
+    </div>
+
+    <!-- 这里是头部广告 -->
+    <div id="advertising">
+        <!-- <a href="javascript:;">
+            <img src="../static/advertising.jpg" alt="">
+        </a> 
+        <button>点击</button>-->        
+    </div>
+
+    @include('head.html') 
+    <!-- 这里开始是banner -->
+    <div id="banner_wrap">
+        <div class="banner_box">
+            <ul class="list">
+                <!-- <li class="current"><a href="javascripit:;"><img src="../static/banner01.jpg" alt=""></a></li>
+                <li><a href="javascripit:;"><img src="../static/banner02.jpg" alt=""></a></li> -->
+            </ul>
+            <div class="btn">
+                <span class="next">&gt;</span>
+                <span class="prev">&lt;</span>
+            </div>
+            <ul class="pagination">
+                <!-- <li class="bullet focus"></li>
+                <li class="bullet"></li> -->
+            </ul>
+
+            <!-- 这里是banner浮动导航 -->
+            <ul id="nav">
+                <ul>
+                    <li class="nav_phone">
+                        <h2>手机</h2>
+                        <a href="javascripit:;">荣耀</a>
+                        <a href="javascripit:;">HUAWEI P系列</a>
+                        <i></i>
+                        <ul id="phoneNav" class="nav_block">
+                            <!-- <li class="nav_block_items">
+                                <img src="../static/product_nav.png" alt=""><span></span>
+                                <h2>荣耀</h2>
+                            </li> -->
+                        </ul>
+                    </li>
+                    <li class="nav_book">
+                        <h2>笔记本&平板</h2>
+                        <a href="javascripit:;">平板电脑</a>
+                        <a href="javascripit:;">笔记本电脑</a>
+                        <i></i>
+                        <ul id="bookNav" class="nav_block"></ul>
+                    </li>
+                    <li class="nav_watch">
+                        <h2>智能穿戴</h2>
+                        <a href="javascripit:;">手环</a>
+                        <a href="javascripit:;">手表</a>
+                        <a href="javascripit:;">VR</a>
+                        <i></i>
+                        <ul id="watchNav" class="nav_block"></ul>
+                    </li>
+                    <li class="nav_list">
+                        <h2>智能家居&智慧屏</h2>
+                        <a href="javascripit:;">荣耀</a>
+                        <a href="javascripit:;">HUAWEI P系列</a>
+                        <i></i>
+                        <ul class="nav_block" id="bookNav"></ul>
+                    </li>
+                    <li class="nav_list">
+                        <h2>手机</h2>
+                        <a href="javascripit:;">荣耀</a>
+                        <a href="javascripit:;">HUAWEI P系列</a>
+                        <i></i>
+                        <ul class="nav_block" id="bookNav"></ul>
+                    </li>
+                    <li class="nav_list">
+                        <h2>手机</h2>
+                        <a href="javascripit:;">荣耀</a>
+                        <a href="javascripit:;">HUAWEI P系列</a>
+                    </li>
+                    <ul class="nav_block" id="bookNav"></ul>
+                </ul>
+            </div>
+            <span class="banner_bg"></span>
+        </div>
+
+    
+    <!-- 这里开始是登录注册用户福利 -->
+    <div id="user_wrap">
+        <div class="user">
+            <div class="user_login">
+                <img src="../../static/headportrait.png" alt="">
+                <p>您好！请 <a href="javascript:;">登陆</a> / <a href="javascript:;">注册</a></p>
+                <a href="javascript:;" class="welfare">新人福利</a>
+                <a href="javascript:;" class="member">会员频道</a>
+            </div>
+            <div class="else_welfare">
+                <ul>
+                    <li>
+                        <div class="nav_bg1"></div>
+                        <a href="javascript:;">企业特惠购</a>
+                    </li>
+                    <li>
+                        <div class="nav_bg2"></div>
+                        <a href="javascript:;">会员领券</a>
+                    </li>
+                    <li>
+                        <div class="nav_bg3"></div>
+                        <a href="javascript:;">以旧换新</a>
+                    </li>
+                    <li>
+                        <div class="nav_bg4"></div>
+                        <a href="javascript:;">Mate 30系列</a>
+                    </li>
+                    <li>
+                        <div class="nav_bg5"></div>
+                        <a href="javascript:;">荣耀数码</a>
+                    </li>
+                    <li>
+                        <div class="nav_bg6"></div>
+                        <a href="javascript:;">华为数码</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="user_right">
+                <div class="news">
+                    <h2>公告</h2>
+                    <div class="scrollDiv" id="demo">
+                        <ul id="demo1">
+                            <li><a href="javascript:;">nova 6 系列 新品公告</a></li>
+                            <li><a href="javascript:;">华为A2路由新品预订公告</a></li>
+                            <li><a href="javascript:;">荣耀智慧屏系列晒单赢触控遥控</a></li>
+                            <li><a href="javascript:;">活动中奖名单华为mate30系列</a></li>
+                        </ul>
+                        <div id="demo2"></div>
+                    </div>
+                </div>
+                <div class="news_bottom">
+                    <ul>
+                        <li>
+                            <div class="news_button_bg1"></div>
+                            <a href="javascript:;">优购码</a>
+                        </li>
+                        <li>
+                            <div class="news_button_bg2"></div>
+                            <a href="javascript:;">更换电池</a>
+                        </li>
+                        <li>
+                            <div class="news_button_bg3"></div>
+                            <a href="javascript:;">补购保障</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 这里开始是主页的热门推荐 -->
+    <div id="hot_product_wrap">
+        <div class="hot_product">
+            <ul id="hot">
+                <!-- <li>
+                    <a href="javascript:;">
+                        <img src="../static/hot_product.png" alt="">
+                    </a>
+                </li> -->
+            </ul>
+        </div>
+    </div>
+
+   
+
+    <!-- 这里是精品推荐 -->
+    <div id="recommendation_wrap">
+        <div class="swiper-container">
+            <h2>精品推荐</h2>   
+            <div class="swiper-wrapper">
+                <!-- <div class="swiper-slide">
+                    <a href="javascript:;">
+                        <div class="recommendation_img">
+                            <img src="../static/recommendation_img.png" alt="">
+                            <span>最高优惠100元</span>
+                        </div>
+                        <h2>华为平板M6 10.8英寸</h2>
+                        <p>￥2199</p>
+                    </a>
+                </div>
+            -->      
+            </div>
+            <!-- Add Arrows -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </div>
+
+    <!-- 这里是中间部分广告 -->
+    <div id="center_adv">
+        <div class="slider">
+            <ul class="center_list">
+                <!-- <li class="center_current"><a href="#1"><img src="../static/1111.jpg" alt=""></a></li>
+                <li><a href="#2"><img src="../static/2222.jpg" alt=""></a></li> -->
+            </ul>
+            <ul class="center_pagination">
+                <!-- <li class="center_bullet add"></li>
+                <li class="center_bullet"></li> -->
+            </ul>
+        </div>
+    </div>
+
+    
+    <!-- 这里是首页楼层按钮 --> 
+    <div id="loutinav">
+        <ul> 
+            <li class="active"><span>手机</span></li>
+            <li><span>笔记本电脑</span></li>
+            <li><span>精品平板</span></li>
+        </ul>
+    </div>
+
+     <!-- 这里开始是产品列表 -->
+     <div class="product_wrap" id="phone">
+        <!-- <div class="product">
+            <h2>手机</h2>
+            <ul class="product_items">
+                <li>
+                    <a href="javascript:;">
+                        <img src="../static/hot_item_right.png" alt="">
+                        <h3>荣耀V20</h3>
+                        <p>限时低至1699元</p>
+                        <span>￥1699</span>
+                    </a>
+                </li>
+            </ul>
+        </div> -->
+    </div>
+    <div class="product_wrap" id="book"></div>
+    <div class="product_wrap" id="pad"></div>
+    @include('foot.html')
+</body>
+
+</html>

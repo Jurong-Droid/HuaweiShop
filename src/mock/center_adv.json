@@ -1,0 +1,34 @@
+{
+    "type" : "center_adv",
+    "code" : 0,
+    "center_adv" : [
+        {
+            "advUrl" : "https://res.vmallres.com/pimages//pages/picImages/DcjcIss2HwI80HuqwJ4u.jpg",
+            "advLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "advUrl" : "https://res.vmallres.com/pimages//pages/picImages/mr56SiGXTPmJmpkShrUk.png",
+            "advLink" : "https://www.vmall.com/huawei"
+        },
+        {
+            "advUrl" : "https://res.vmallres.com/pimages//pages/picImages/vqjtcxQ3ysadhzcZ83t7.jpg",
+            "advLink" : "https://www.vmall.com/product/10086226569988.html"
+        },
+        {
+            "advUrl" : "https://res.vmallres.com/pimages//pages/picImages/FKPJTHt9tcw3sRF84Sly.jpg",
+            "advLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "advUrl" : "https://res.vmallres.com/pimages//pages/picImages/OW653ckHRQ4dbF0sogb9.jpg",
+            "advLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "advUrl" : "https://res.vmallres.com/pimages//pages/picImages/vZm1bhP9blDa1DYKEzaJ.jpg",
+            "advLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "advUrl" : "https://res.vmallres.com/pimages//pages/picImages/ekYl1HNtDiThbidf5CXA.jpg",
+            "advLink" : "https://www.vmall.com/product/10086478053817.html"
+        }
+    ]
+}

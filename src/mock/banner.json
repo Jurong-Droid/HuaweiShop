@@ -1,0 +1,27 @@
+{
+    "type" : "banner",
+    "code" : 0,
+    "banner_list" : [
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/uVhtc4So9yDFCksrArmw.jpg",
+            "imgLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/iMGtEoVJuBZu4olBYa9f.jpg",
+            "imgLink" : "https://www.vmall.com/huawei"
+        },
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/VcutxbdXjv9wdpTGY6uT.jpg",
+            "imgLink" : "https://www.vmall.com/product/10086226569988.html"
+        },
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/TegS0uaCPkxFNcpY5O4n.jpg",
+            "imgLink" : "https://www.vmall.com/product/10086478053817.html"
+        },
+        {
+            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/FyuWZsPQPGfC9gz4OcKP.jpg",
+            "imgLink" : "https://www.vmall.com/product/10086478053817.html"
+        }
+    ]
+}
+
